@@ -2,7 +2,7 @@
 ![fox_007 - mini](https://user-images.githubusercontent.com/50245831/237539094-b20fe912-e476-4795-b3cf-a10b9c7cf426.png)
 # Projeto: Aplicação de Teste do para o pacote de classes "BrazilianDocuments" - versão 1.0.4.
 
-Esta aplicação foi criada para que os utilizadores do pacote de classe "BrazilianDocuments" (disponível na plataforma NuGet Gallery), em sua versão 1.0.3, possam testar o uso dos validadores contidos nele. Essa aplicação simples contém todos os exemplos de uso possíveis. 
+Esta aplicação foi criada para que os utilizadores do pacote de classe "BrazilianDocuments" (disponível na plataforma NuGet Gallery), em sua versão 1.0.4, possam testar o uso dos validadores contidos nele. Essa aplicação simples contém todos os exemplos de uso possíveis. 
 
 ---------------------
 # Mensagem do Autor
